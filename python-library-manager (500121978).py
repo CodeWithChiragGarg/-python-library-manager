@@ -1,4 +1,4 @@
-# changes I had made after half evaluation : ask user to select admin or user define opertion for admin and user seprately.
+# changes I made after half evaluation : ask user to select admin or user define opertion for admin and user seprately.
 
 '''Library Management System with Admin and User Interfaces'''
 
