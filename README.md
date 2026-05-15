@@ -1,64 +1,71 @@
 <div align="center">
 
-# ⚡ THE LIBRARY CORE ⚡
+# 🧠 Library Intelligence System
 
-```diff
-+ ACCESS LEVEL : ADMIN / USER
-+ SYSTEM STATUS : ACTIVE
-+ DATABASE : CONNECTED
-+ SECURITY : ENABLED
-```
-
-═══════════════════════════════════════
-
-## 📚 LIBRARY MANAGEMENT SYSTEM
-
-═══════════════════════════════════════
-
-🚀 A futuristic Python-based Library Management System  
-with separate Admin and User interfaces.
+### A role-based Python library engine designed with structured logic, secure access flow, and modular operations.
 
 </div>
 
 ---
 
-# 🌌 SYSTEM MODULES
+## ⚡ System Overview
+
+This project is a **command-line Library Management System** built in Python.  
+It follows a simple but intelligent architecture where operations are divided into two access layers:
 
 ```text
-◉ ADMIN CONTROL
-   ├── ➕ Add Books
-   ├── ❌ Remove Books
-   ├── 👤 Manage Users
-   └── 📚 Monitor Library
-
-◉ USER ACCESS
-   ├── 📖 View Books
-   ├── ✅ Issue Books
-   ├── 🔁 Return Books
-   └── 🔐 Secure Login
+Admin Layer  → Controls books and users
+User Layer   → Views, issues, and returns books
 ```
 
 ---
 
-# 🧠 CORE TECHNOLOGY
+## 🧩 Core Logic
 
 ```python
-library = {}
-users = {}
-admin_password = "chirag1250"
+library = {}   # Stores book records
+users = {}     # Stores user credentials
+```
+
+The system uses:
+- Dictionary-based data storage
+- Function-driven modular design
+- Role-based access control
+- Password verification
+- Menu-driven execution flow
+
+---
+
+## 🔐 Access Control
+
+```text
+Admin → Password protected
+User  → User ID + auto-generated password
+```
+
+User password is generated from the last 4 digits of the user ID.
+
+---
+
+## 🚀 Features
+
+```text
+ADMIN CONTROL
+├── Add Book
+├── Remove Book
+├── Display Books
+├── Add User
+└── Remove User
+
+USER CONTROL
+├── View Books
+├── Issue Book
+└── Return Book
 ```
 
 ---
 
-# ⚙️ TECH STACK
-
-```python
-Python • Functions • Dictionaries • Loops • Conditions
-```
-
----
-
-# 🚀 EXECUTE SYSTEM
+## ▶️ Run System
 
 ```bash
 python library_management.py
@@ -66,10 +73,15 @@ python library_management.py
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-⚔️ Designed & Developed By ⚔️
+```text
+Python | Functions | Dictionaries | Loops | Conditional Logic
+```
 
-# CHIRAG GARG
+---
 
-</div>
+## 👨‍💻 Developer
+
+**Chirag Garg**  
+B.Tech CSE — Data Science
