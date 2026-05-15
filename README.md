@@ -1,15 +1,24 @@
-# Library Management System
+# 📚 Library Management System
 
-Python-based Library Management System with separate Admin and User operations.
+<div align="center">
 
-## Features
-- Add/Remove Books
-- Add/Remove Users
-- Display Books
-- Issue and Return Books
-- Admin Password Authentication
+<img src="https://img.shields.io/badge/Python-3D%20Project-blue?style=for-the-badge&logo=python" />
 
-## Run Project
+### 🚀 Admin + User Based Library System
 
-```bash
-python library_management.py
+</div>
+
+---
+
+## ✨ Project Preview
+
+```text
+📚 Library Management System
+ ┣ 👨‍💼 Admin Panel
+ ┃ ┣ ➕ Add Book
+ ┃ ┣ ❌ Remove Book
+ ┃ ┗ 👤 Manage Users
+ ┗ 👨‍🎓 User Panel
+   ┣ 📖 View Books
+   ┣ ✅ Issue Book
+   ┗ 🔁 Return Book
