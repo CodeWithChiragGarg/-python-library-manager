@@ -1,24 +1,75 @@
-# 📚 Library Management System
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3D%20Project-blue?style=for-the-badge&logo=python" />
+# ⚡ THE LIBRARY CORE ⚡
 
-### 🚀 Admin + User Based Library System
+```diff
++ ACCESS LEVEL : ADMIN / USER
++ SYSTEM STATUS : ACTIVE
++ DATABASE : CONNECTED
++ SECURITY : ENABLED
+```
+
+═══════════════════════════════════════
+
+## 📚 LIBRARY MANAGEMENT SYSTEM
+
+═══════════════════════════════════════
+
+🚀 A futuristic Python-based Library Management System  
+with separate Admin and User interfaces.
 
 </div>
 
 ---
 
-## ✨ Project Preview
+# 🌌 SYSTEM MODULES
 
 ```text
-📚 Library Management System
- ┣ 👨‍💼 Admin Panel
- ┃ ┣ ➕ Add Book
- ┃ ┣ ❌ Remove Book
- ┃ ┗ 👤 Manage Users
- ┗ 👨‍🎓 User Panel
-   ┣ 📖 View Books
-   ┣ ✅ Issue Book
-   ┗ 🔁 Return Book
+◉ ADMIN CONTROL
+   ├── ➕ Add Books
+   ├── ❌ Remove Books
+   ├── 👤 Manage Users
+   └── 📚 Monitor Library
+
+◉ USER ACCESS
+   ├── 📖 View Books
+   ├── ✅ Issue Books
+   ├── 🔁 Return Books
+   └── 🔐 Secure Login
+```
+
+---
+
+# 🧠 CORE TECHNOLOGY
+
+```python
+library = {}
+users = {}
+admin_password = "chirag1250"
+```
+
+---
+
+# ⚙️ TECH STACK
+
+```python
+Python • Functions • Dictionaries • Loops • Conditions
+```
+
+---
+
+# 🚀 EXECUTE SYSTEM
+
+```bash
+python library_management.py
+```
+
+---
+
+<div align="center">
+
+⚔️ Designed & Developed By ⚔️
+
+# CHIRAG GARG
+
+</div>
